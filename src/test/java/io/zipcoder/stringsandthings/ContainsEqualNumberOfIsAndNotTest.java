@@ -3,7 +3,7 @@ package io.zipcoder.stringsandthings;
 import io.zipcoder.StringsAndThings;
 import org.junit.Assert;
 import org.junit.Before;
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 /**
  * @author leon on 29/01/2019.
